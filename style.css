@@ -5,9 +5,6 @@
     font-family: "Lato", sans-serif;
 }
 
-.models-page {
-    background-color: rgba(205, 224, 234, 0.543);
-}
 
 /*Navigation-Bar*/
 
@@ -208,7 +205,7 @@ a:hover{
     position: relative;
     padding: 0 2rem;
     height: 100%;
-    background-color: rgba(192, 220, 234, 0.674);
+    background-color: rgba(255, 255, 255, 0.674);
 }
 
 .hero-container video {
